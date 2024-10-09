@@ -1,8 +1,10 @@
-
-
+import Chai from "./Chai"
 function App() {
   return (
-     <h1>REACT With OMKAR</h1>
+    <>
+     <Chai/>
+     <h1>REACT WITH OMKAR</h1>
+    </>
   );
 }
 
